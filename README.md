@@ -27,4 +27,4 @@ alsarich000@gmail.com | Tyumen, Russia
 * Русский - родной
 * Английский - продвинутый
 
-![](c:/Users/admin/Desktop/нетология/git/GitCourseProject/img/foto.jpeg)
+![](c:/Users/admin/Desktop/netology/git/GitCourseProject/img/foto.jpeg)
